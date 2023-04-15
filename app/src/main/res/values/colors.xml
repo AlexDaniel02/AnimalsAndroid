@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorEuropa">#008000</color>
+    <color name="colorAfrica">#FFFF00</color>
+    <color name="colorAsia">#FF0000</color>
+    <color name="colorAmerica">#0000FF</color>
+    <color name="colorAustralia">#FFA500</color>
+    <color name="purple_500">#AB47BC</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#BA68C8</color>
+</resources>
